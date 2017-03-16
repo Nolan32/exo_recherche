@@ -126,8 +126,31 @@ Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
 Qu'est-ce qu'une Cheatsheet ?
 Combien de requêtes y-a-t-il sur Google toutes les minutes ?
 il y a 2340000 requete google par minute 
+
 Qu’est-ce que les joies du code ?
+quand le PO ne valide pas les users stories
+quand on enchaine les tickets en attente 
+quand le client parle technique sans se tromper
+quand le chef fait l'eloge de notre travail en plein réunion
+git clone
+quand on arrive a faire une injection sql sur un vieux site
+quand on fait un drop table en prod alors que je croyais le faire en dev
+quand on arrive enfin a utiliser correctement une API
+quand on test le code d'un stagiaire
+quand on voit le rendu final du dev externalisé en offshore
+quand un dev senior code un hotfix
+git push -force 
+quand un commercial cherche a vendre une mission a 200 km de chez nous
+apres avoir livré nos dev en plein rush
+quand on recois les maquettes paint du client
+quand on debug une appli et qu'on s'attend qu'elle s'arrete a nos breakpoint
+Quand le chef nous dit qu'il a contacté Microsoft pour régler notre problème technique du moment
+Quand on attends la complétion de code
+quand on enchaine les corrections de bugs triviale
+et bien d'autre
+
 Qui sont Larry Page et Sergey Brin ?
+se sont les deux fondateur de google
 Convertissez en binaire
 2, 5, 12, 25, 512
 00000010 , 00000101 00001100,11111111

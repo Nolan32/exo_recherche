@@ -148,5 +148,6 @@ Qu’est-ce que xkcd ?
 cest une bande dessinée en ligne créée par Randall Munroe, un ancien consultant sur les robots à la NASA
 Qu’est-ce que Mr Robot ?
 Qu’est-ce que OpQuast ?
+Opquast est un écosystème qui regroupe des bonnes pratiques, des outils et des professionnels pour améliorer la qualité des sites web et l'expérience des utilisateurs
 Quelles sont les différences entre un client web et un serveur web ?
 Donnez 3 exemples de chaque

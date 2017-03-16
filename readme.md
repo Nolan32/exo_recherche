@@ -23,6 +23,8 @@ Qu'est-ce que Qwant ?
 Qui est Steve Wozniak ?
 
 D'où vient l'expression "bug informatique" ?
+bug en anglais signifie punaise ou cafard au tou début des ordinateurs il été courant que ces 
+insecte rentre dans les ordinateurs et avec la chaleur cours circuite des composant en faisant crash l'ordinateur on disais donc il y a un bug dans mon ordinateur.
 
 Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 

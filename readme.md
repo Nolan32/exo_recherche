@@ -145,6 +145,7 @@ Quelles nouveautés par rapport à la version précédente ?
 Quelles différences avec ES 6 ?
 Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
 Qu’est-ce que xkcd ?
+cest une bande dessinée en ligne créée par Randall Munroe, un ancien consultant sur les robots à la NASA
 Qu’est-ce que Mr Robot ?
 Qu’est-ce que OpQuast ?
 Quelles sont les différences entre un client web et un serveur web ?

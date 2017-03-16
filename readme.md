@@ -76,8 +76,9 @@ l'interet et que l'on ne peut pas se louper mais generalement de nos jours cette
 - Quels sont les différents services d'emailing disponibles ?
 Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 - Quelle est votre adress IP actuelle ?
-192.168
+192.168.1.181
 - Et celle de votre smartphone ?
+ 234.101.43.146
 - Qu’est-ce que le développement en cycle V ?
 - Les Hackers sont-ils des hors-la-loi ?
 - Qui a inventé la souris ?
@@ -95,6 +96,8 @@ En informatique, la répartition de charge (en anglais : load balancing) est un 
 l'open-source est un soft ou systeme d'exploitation etc.. auquel on pourra apporter des modification  pour changer par exemple l'interface ou autre
 
 - Qu’est-ce que le Bug Bounty ?
+Un bug bounty est un programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs, surtout ceux concernant des exploits et des vulnérabilités.
+
 - Qu'est-ce qu'une adresse IP v4 ?
 c'est la premiere version de l'internet protocol il est encore utilisé de nos jours mais va bientot arriver a son therme il commence a ne plus avoir assez d'adresse ip avec l'arriver de plus en plus de site en ligne
 
@@ -117,36 +120,36 @@ Trouvez trois entreprises qui développent des solutions Free & OpenSource
 comment gagnent-elles de l’argent ?
 -don c'est a dire ils ont une plateforme ou l'on peut donner 20€ ou autre
 
-Qui est Phil Zimmermann ?
-Qu’est-ce que le W3C ?
-Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
+- Qui est Phil Zimmermann ?
+- Qu’est-ce que le W3C ?
+- Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
 
-Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami, situé à plusieurs centaines de kilomètres. Il aurait lu cet article sur Quora. Retrouvez cet article et lisez-le :)
+- Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami, situé à plusieurs centaines de kilomètres. Il aurait lu cet article sur Quora. Retrouvez cet article et lisez-le :)
 
 
-Que sont les White Hat et les Black Hat ?
-Qu’est-ce qu’une attaque DDoS ?
-Quelles est l'adresse MAC de votre ordinateur ?
-Et de votre smartphone ?
-Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
+- Que sont les White Hat et les Black Hat ?
+- Qu’est-ce qu’une attaque DDoS ?
+- Quelles est l'adresse MAC de votre ordinateur ?
+- Et de votre smartphone ?
+- Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
 http://www.jobisjob.fr/toulouse/developpeur+web+junior/emploi
 
-Qui est Tim Berners-Lee ?
+- Qui est Tim Berners-Lee ?
 Timothy John Berners-Lee, né le 8 juin 1955 à Londres, est un citoyen britannique, principal inventeur du World Wide Web (WWW) au tournant des années 1990. En juillet 2004, il est anobli par la reine Élisabeth II pour ce travail et son nom officiel devient Sir Timothy John Berners-Lee. Depuis 1994, il préside le World Wide Web Consortium (W3C), organisme qu'il a fondé.
 
 
-Comment sont reliés les différents réseaux d'internet ?
-Les WAN
+- Comment sont reliés les différents réseaux d'internet ?
+
 
 Par un WAN (Wide Area Network ou réseau étendu) permettant de connecter les different réseau sur de grande etendu geographique. 
 
 
-Qu’est-ce que KISS ?
+- Qu’est-ce que KISS ?
 c'est un principe qui veut dire ne complique pas les choses  pour precononiser la simplicité dans la conception que la complexité non indispensable
 
-Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
+- Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
 
-En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
+- En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 
 La technique Pomodoro est une technique de planification développée par Francesco Cirillo à la fin des années 1980. Cette méthode se base sur l'usage d'un minuteur permettant de respecter des périodes de 25 minutes appelées pomodori.C'est une methode agile utilisé dans le pair programming et la todo list
 

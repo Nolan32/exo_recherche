@@ -30,9 +30,14 @@ femme s'etant engager dans la marine en 1943 affectée en 1944 au bureau of ordn
 a la fin de la seconde guerre mondiale  elle travaille sur le Harvard Mark II et III pour toujours la meme boite
 
 
+
 Qu'est-ce que Qwant ?
+Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.
+
 
 Qui est Steve Wozniak ?
+
+Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.-
 
 D'où vient l'expression "bug informatique" ?
 bug en anglais signifie punaise ou cafard au tou début des ordinateurs il été courant que ces 
@@ -60,6 +65,11 @@ Qui est Richard Stallman ?
 Comment fonctionnent les bang de Duck Duck Go ?
 Qui est Marissa Mayer ?
 Qu’est-ce qu’une attaque “brute force” ?
+c'est une proccedure pour forcer generalement un mot de passe quelqueconque ayant pour but de tester une par une toute les possibilité de mot de passe dans une certaine limite de caractere que l'on definit
+exemple: on choisi que l'on forcera sur 4 caractere ce qui donnera
+_ _ _ a ,_ _ _b etc jusqu'a qu'il n'y ai plus de possibilité sur la premiere alors on passera a _ _ a a, _ _ a b ainsi dessuite
+l'interet et que l'on ne peut pas se louper mais generalement de nos jours cette procedure ai cassiment plus utilisable sur les sites n'etant pas un minimum boulet toutefois la methode peut etre interessant pour casser une clé wifi ou un mot de passe 
+
 Qui est Linus Torvalds ?
 Quels sont ses plus grands développements ?
 Combien coûte un nom de domaine ?
@@ -91,10 +101,15 @@ un software open-source est un soft auquel on pourra apporter des modification  
 tandis qu'un software free il sera gratuit mais nous n'auront en aucun cas le droit de modifie une interface ou quoi que se sois a l'interieur 
 Trouvez trois entreprises qui développent des solutions Free & OpenSource
 comment gagnent-elles de l’argent ?
+-don c'est a dire ils ont une plateforme ou l'on peut donner 20€ ou autre
+
 Qui est Phil Zimmermann ?
 Qu’est-ce que le W3C ?
 Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
+
 Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami, situé à plusieurs centaines de kilomètres. Il aurait lu cet article sur Quora. Retrouvez cet article et lisez-le :)
+
+
 Que sont les White Hat et les Black Hat ?
 Qu’est-ce qu’une attaque DDoS ?
 Quelles est l'adresse MAC de votre ordinateur ?

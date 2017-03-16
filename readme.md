@@ -14,6 +14,10 @@ c'est une adresse ip qui s'appelle ip Brodcast (adresse de diffusion)
 c'est la plage ip de loopback c'est a dire une plage ip qui sers a tester le bon fonctionnement de sa carte réseau
 
 Que sont le copyright et le copyleft ?
+le copyright est un droit reserver par l'auteur qui depose le brevet pour proteger pendant un certain temps.
+il est marqué par le symbole © suivit du nom de l'auteur.Si l'on veut utilisé une oeuvre copyright on doit demande l'autorisation.
+contrairement au copyleft ou l'on fait une demande de rendre libre son oeuvre 
+son symbole est le copyrigh mais le "C" sera inversé
 
 Que sont les Creatives Commons ?
 

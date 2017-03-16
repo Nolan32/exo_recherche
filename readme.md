@@ -29,13 +29,21 @@ Qui est Steve Wozniak ?
 
 D'où vient l'expression "bug informatique" ?
 bug en anglais signifie punaise ou cafard au tou début des ordinateurs il été courant que ces 
-insecte rentre dans les ordinateurs et avec la chaleur cours circuite des composant en faisant crash l'ordinateur on disais donc il y a un bug dans mon ordinateur.
+insecte rentre dans les ordinateurs et avec la chaleur cours circuite des composant en faisant crash l'ordinateur on disais donc il y a un bug dans mon ordinateur.	
 
 Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
 
 Quels sont les prochains rendez-vous tech de Toulouse ?
 
 Qui est Aaron Swartz ?
+Née a Chicago il a participé a l'evolution de beaucoup de chose 
+-creation en colaboration avec John Gruber du language markdown
+-implication au devellopement du format des flux rss
+-fondation d'un cybergroup ayant lutter contre le Stop Online Piracy Act
+-il travail avec Virgil Griffith sur Tor2web un proxy http pour les services caché Tor
+-participation a la creation de l'Open library a la demande du fondateur de l'internet Archive
+et bien d'autre...
+il est mort pendu dans son appartement a Brooklyn le 11 janvier 2013 un mois avant son procces federal.
 
 Qu’est-ce que le projet GNU ?
 

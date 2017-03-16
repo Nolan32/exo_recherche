@@ -147,6 +147,8 @@ Quelles sont les différences entre application native, application hybride, app
 Qu’est-ce que xkcd ?
 cest une bande dessinée en ligne créée par Randall Munroe, un ancien consultant sur les robots à la NASA
 Qu’est-ce que Mr Robot ?
+Série  télévisé Américaine creer par Sam Esmail, le personnage principal est paranoiaque et anxieux travaillant en tant que  technicien en sécurité informatique pour Allsafe Security
+ces trouble le poussant a hacker des comptes pour etablir une "justice" le poussant a rencontrer Mr Robot un anarchiste et tous les deux vont tenter de retablir l'equilibre de la socité par la destruction des infrastructure des plus grosse banque et entreprises du monde dont celle ou il travail
 Qu’est-ce que OpQuast ?
 Opquast est un écosystème qui regroupe des bonnes pratiques, des outils et des professionnels pour améliorer la qualité des sites web et l'expérience des utilisateurs
 Quelles sont les différences entre un client web et un serveur web ?

@@ -118,11 +118,19 @@ Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
 Qui est Tim Berners-Lee ?
 Comment sont reliés les différents réseaux d'internet ?
 Qu’est-ce que KISS ?
+c'est un principe qui veut dire ne complique pas les choses  pour precononiser la simplicité dans la conception que la complexité non indispensable
+
 Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
 En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
+
+La technique Pomodoro est une technique de planification développée par Francesco Cirillo à la fin des années 1980. Cette méthode se base sur l'usage d'un minuteur permettant de respecter des périodes de 25 minutes appelées pomodori.C'est une methode agile utilisé dans le pair programming et la todo list
+
 Qu’est-ce qu’Amazon Web Services - AWS ?
+Amazon Web Services propose des services de cloud computing fiables, évolutifs et économiques. Inscription gratuite et paiement à l'utilisation.
+
 Qui est Sundar Pichai ?
 c'est le directeur général de google 
+
 Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
 89,23% pour windows (14,35% windows 10/ 9,16 windows 8.1/ 2,95% windows 8 / 48,79% windows 7/1,34% windows vista/ 9,66% windows XP / 2,98% d'autre antiquité windows)
 9,20% pour Mac

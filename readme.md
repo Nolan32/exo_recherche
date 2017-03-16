@@ -137,6 +137,9 @@ Convertissez du binaire vers le système “classique” (base 10)
 100, 1011, 11111, 11110110101
 4 , 11, 59 1973
 Quelles sont les nouveautés apportées par le HTML 5 ?
+de nouveaux attribut
+nouveaux élément
+connexion P2P
 Qu’est-ce que ECMAScript 2015 ?
 Quelles nouveautés par rapport à la version précédente ?
 Quelles différences avec ES 6 ?

@@ -89,16 +89,27 @@ Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
 - Trouvez un screenshot de la première version de Facebook
 - Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 - Qu'est-ce que le load balancing ?
+En informatique, la répartition de charge (en anglais : load balancing) est un ensemble de techniques permettant de distribuer une charge de travail entre différents ordinateurs d'un groupe.
+
 - Qu’est-ce que l’open source ?
 l'open-source est un soft ou systeme d'exploitation etc.. auquel on pourra apporter des modification  pour changer par exemple l'interface ou autre
+
 - Qu’est-ce que le Bug Bounty ?
 - Qu'est-ce qu'une adresse IP v4 ?
 c'est la premiere version de l'internet protocol il est encore utilisé de nos jours mais va bientot arriver a son therme il commence a ne plus avoir assez d'adresse ip avec l'arriver de plus en plus de site en ligne
+
 - Pourquoi parle-t-on aussi d'adresse IP v6 ?
 tous comme dit juste avant on parle d'IP v6 a cause du faite que l'IP V4 touche a sa fin dans pas longtemps
+	
 - Combien coûte un serveur pour héberger mon site perso ?
 - Qu’est-ce que le Cowboy coding ?
 - Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
+1 C		6 C#
+2 Java		7 PHP
+3 Python	8 Ruby
+4 C++		9 HTML
+5 JavaScript	10 Swift
+
 - Quelles sont les différences entre un software open-source et un software free ?
 un software open-source est un soft auquel on pourra apporter des modification  pour changer par exemple l'interface ou autre
 tandis qu'un software free il sera gratuit mais nous n'auront en aucun cas le droit de modifie une interface ou quoi que se sois a l'interieur 

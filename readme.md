@@ -122,10 +122,12 @@ Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
 En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 Qu’est-ce qu’Amazon Web Services - AWS ?
 Qui est Sundar Pichai ?
+c'est le directeur général de google 
 Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
 89,23% pour windows (14,35% windows 10/ 9,16 windows 8.1/ 2,95% windows 8 / 48,79% windows 7/1,34% windows vista/ 9,66% windows XP / 2,98% d'autre antiquité windows)
 9,20% pour Mac
 1,56% pour linux
+
 Qu'est-ce qu'une Cheatsheet ?
 c'est une antisèche comme celle que l'on a dans la deuxieme semaine de la prairie
 

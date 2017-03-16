@@ -46,4 +46,5 @@ et bien d'autre...
 il est mort pendu dans son appartement a Brooklyn le 11 janvier 2013 un mois avant son procces federal.
 
 Qu’est-ce que le projet GNU ?
+GNU est un OS libre lancé en 1983 par Richard Stallman GNU literralement veut dire "GNU n'est pas UNIX" il reprend tous de meme ls concept et fonctionnement d'UNIX
 

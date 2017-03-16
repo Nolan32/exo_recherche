@@ -6,10 +6,10 @@ Qu’est-ce que cela :
 8.8.8.8
 C'est le serveur DNS de google 
 192.168.0.1
-c'est une adresse ip privé utiliser par default par les FAI cette ip est utilisé pour rentrer dans l'interface du routeur.
+c'est une adresse ip privé de classe C utiliser par default par les FAI cette ip est utilisé pour rentrer dans l'interface du routeur.
 
 255.255.255.0
-c'est une adresse ip qui s'appelle ip Brodcast (adresse de diffusion)
+c'est un masque de sous réseau de classe C 
 127.0.0.1
 c'est la plage ip de loopback c'est a dire une plage ip qui sers a tester le bon fonctionnement de sa carte réseau
 

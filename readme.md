@@ -20,6 +20,10 @@ contrairement au copyleft ou l'on fait une demande de rendre libre son oeuvre
 son symbole est le copyrigh mais le "C" sera inversé
 
 Que sont les Creatives Commons ?
+Attribution c'est a dire une signature de l'auteur initial
+Non commercial c'est a dire  interdiction de tirer un profit d'une oeuvre sans l'autorisation de l'auteur initial
+No  derivative works c'est a dire impossibilité d'ajouter tous ou une partie dans une oeuvre deja existante 
+Share alike c'est a dire partage de l'oeuvre mais doit avoir la meme license
 
 Qui est Grace Hopper ?
 

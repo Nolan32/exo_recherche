@@ -123,7 +123,12 @@ En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 Qu’est-ce qu’Amazon Web Services - AWS ?
 Qui est Sundar Pichai ?
 Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
+89,23% pour windows (14,35% windows 10/ 9,16 windows 8.1/ 2,95% windows 8 / 48,79% windows 7/1,34% windows vista/ 9,66% windows XP / 2,98% d'autre antiquité windows)
+9,20% pour Mac
+1,56% pour linux
 Qu'est-ce qu'une Cheatsheet ?
+c'est une antisèche comme celle que l'on a dans la deuxieme semaine de la prairie
+
 Combien de requêtes y-a-t-il sur Google toutes les minutes ?
 il y a 2340000 requete google par minute 
 
@@ -151,6 +156,7 @@ et bien d'autre
 
 Qui sont Larry Page et Sergey Brin ?
 se sont les deux fondateur de google
+
 Convertissez en binaire
 2, 5, 12, 25, 512
 00000010 , 00000101 00001100,11111111

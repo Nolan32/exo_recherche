@@ -153,24 +153,24 @@ c'est un principe qui veut dire ne complique pas les choses  pour precononiser l
 
 La technique Pomodoro est une technique de planification développée par Francesco Cirillo à la fin des années 1980. Cette méthode se base sur l'usage d'un minuteur permettant de respecter des périodes de 25 minutes appelées pomodori.C'est une methode agile utilisé dans le pair programming et la todo list
 
-Qu’est-ce qu’Amazon Web Services - AWS ?
+- Qu’est-ce qu’Amazon Web Services - AWS ?
 Amazon Web Services propose des services de cloud computing fiables, évolutifs et économiques. Inscription gratuite et paiement à l'utilisation.
 
-Qui est Sundar Pichai ?
+- Qui est Sundar Pichai ?
 c'est le directeur général de google 
 
-Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
+- Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
 89,23% pour windows (14,35% windows 10/ 9,16 windows 8.1/ 2,95% windows 8 / 48,79% windows 7/1,34% windows vista/ 9,66% windows XP / 2,98% d'autre antiquité windows)
 9,20% pour Mac
 1,56% pour linux
 
-Qu'est-ce qu'une Cheatsheet ?
+- Qu'est-ce qu'une Cheatsheet ?
 c'est une antisèche comme celle que l'on a dans la deuxieme semaine de la prairie
 
-Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+- Combien de requêtes y-a-t-il sur Google toutes les minutes ?
 il y a 2340000 requete google par minute 
 
-Qu’est-ce que les joies du code ?
+- Qu’est-ce que les joies du code ?
 quand le PO ne valide pas les users stories
 quand on enchaine les tickets en attente 
 quand le client parle technique sans se tromper
@@ -192,41 +192,41 @@ Quand on attends la complétion de code
 quand on enchaine les corrections de bugs triviale
 et bien d'autre
 
-Qui sont Larry Page et Sergey Brin ?
+- Qui sont Larry Page et Sergey Brin ?
 se sont les deux fondateur de google
 
-Convertissez en binaire
+- Convertissez en binaire
 2, 5, 12, 25, 512
 00000010 , 00000101 00001100,11111111
 
-Convertissez en hexadécimal
+- Convertissez en hexadécimal
 2, 5, 12, 25, 512
 
-Convertissez du binaire vers le système “classique” (base 10)
+- Convertissez du binaire vers le système “classique” (base 10)
 100, 1011, 11111, 11110110101
 4 , 11, 59 1973
 
-Quelles sont les nouveautés apportées par le HTML 5 ?
+- Quelles sont les nouveautés apportées par le HTML 5 ?
 de nouveaux attribut
 nouveaux élément
 connexion P2P
 
 
-Qu’est-ce que ECMAScript 2015 ?
-Quelles nouveautés par rapport à la version précédente ?
-Quelles différences avec ES 6 ?
-Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
+- Qu’est-ce que ECMAScript 2015 ?
+- Quelles nouveautés par rapport à la version précédente ?
+- Quelles différences avec ES 6 ?
+- Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
 
 
-Qu’est-ce que xkcd ?
+- Qu’est-ce que xkcd ?
 cest une bande dessinée en ligne créée par Randall Munroe, un ancien consultant sur les robots à la NASA
 
-Qu’est-ce que Mr Robot ?
+- Qu’est-ce que Mr Robot ?
 Série  télévisé Américaine creer par Sam Esmail, le personnage principal est paranoiaque et anxieux travaillant en tant que  technicien en sécurité informatique pour Allsafe Security
 ces trouble le poussant a hacker des comptes pour etablir une "justice" le poussant a rencontrer Mr Robot un anarchiste et tous les deux vont tenter de retablir l'equilibre de la socité par la destruction des infrastructure des plus grosse banque et entreprises du monde dont celle ou il travail
 
-Qu’est-ce que OpQuast ?
+- Qu’est-ce que OpQuast ?
 Opquast est un écosystème qui regroupe des bonnes pratiques, des outils et des professionnels pour améliorer la qualité des sites web et l'expérience des utilisateurs
 
-Quelles sont les différences entre un client web et un serveur web ?
+- Quelles sont les différences entre un client web et un serveur web ?
 Donnez 3 exemples de chaque

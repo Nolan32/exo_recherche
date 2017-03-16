@@ -125,31 +125,41 @@ Qui est Sundar Pichai ?
 Quelle est la répartition des systèmes d'exploitation pour les pc personnels ?
 Qu'est-ce qu'une Cheatsheet ?
 Combien de requêtes y-a-t-il sur Google toutes les minutes ?
+il y a 2340000 requete google par minute 
 Qu’est-ce que les joies du code ?
 Qui sont Larry Page et Sergey Brin ?
 Convertissez en binaire
 2, 5, 12, 25, 512
 00000010 , 00000101 00001100,11111111
+
 Convertissez en hexadécimal
 2, 5, 12, 25, 512
 
 Convertissez du binaire vers le système “classique” (base 10)
 100, 1011, 11111, 11110110101
 4 , 11, 59 1973
+
 Quelles sont les nouveautés apportées par le HTML 5 ?
 de nouveaux attribut
 nouveaux élément
 connexion P2P
+
+
 Qu’est-ce que ECMAScript 2015 ?
 Quelles nouveautés par rapport à la version précédente ?
 Quelles différences avec ES 6 ?
 Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
+
+
 Qu’est-ce que xkcd ?
 cest une bande dessinée en ligne créée par Randall Munroe, un ancien consultant sur les robots à la NASA
+
 Qu’est-ce que Mr Robot ?
 Série  télévisé Américaine creer par Sam Esmail, le personnage principal est paranoiaque et anxieux travaillant en tant que  technicien en sécurité informatique pour Allsafe Security
 ces trouble le poussant a hacker des comptes pour etablir une "justice" le poussant a rencontrer Mr Robot un anarchiste et tous les deux vont tenter de retablir l'equilibre de la socité par la destruction des infrastructure des plus grosse banque et entreprises du monde dont celle ou il travail
+
 Qu’est-ce que OpQuast ?
 Opquast est un écosystème qui regroupe des bonnes pratiques, des outils et des professionnels pour améliorer la qualité des sites web et l'expérience des utilisateurs
+
 Quelles sont les différences entre un client web et un serveur web ?
 Donnez 3 exemples de chaque

@@ -115,12 +115,23 @@ Qu’est-ce qu’une attaque DDoS ?
 Quelles est l'adresse MAC de votre ordinateur ?
 Et de votre smartphone ?
 Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
+http://www.jobisjob.fr/toulouse/developpeur+web+junior/emploi
+
 Qui est Tim Berners-Lee ?
+Timothy John Berners-Lee, né le 8 juin 1955 à Londres, est un citoyen britannique, principal inventeur du World Wide Web (WWW) au tournant des années 1990. En juillet 2004, il est anobli par la reine Élisabeth II pour ce travail et son nom officiel devient Sir Timothy John Berners-Lee. Depuis 1994, il préside le World Wide Web Consortium (W3C), organisme qu'il a fondé.
+
+
 Comment sont reliés les différents réseaux d'internet ?
+Les WAN
+
+Par un WAN (Wide Area Network ou réseau étendu) permettant de connecter les different réseau sur de grande etendu geographique. 
+
+
 Qu’est-ce que KISS ?
 c'est un principe qui veut dire ne complique pas les choses  pour precononiser la simplicité dans la conception que la complexité non indispensable
 
 Un antivirus est-il utile sous Windows ? Sous Mac ? Sous Linux ?
+
 En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ?
 
 La technique Pomodoro est une technique de planification développée par Francesco Cirillo à la fin des années 1980. Cette méthode se base sur l'usage d'un minuteur permettant de respecter des périodes de 25 minutes appelées pomodori.C'est une methode agile utilisé dans le pair programming et la todo list
